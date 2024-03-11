@@ -35,7 +35,7 @@ body {
     border-radius: 5px;
     padding: 20px;
     margin-bottom: 20px;
-    width: calc(50% - 40px); /* Ocupa el 50% del ancho en pantallas grandes */
+    width: calc(49% - 40px); /* Ocupa el 50% del ancho en pantallas grandes */
 }
 
 .producto img {
